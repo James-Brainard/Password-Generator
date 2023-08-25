@@ -26,4 +26,4 @@ HTML, CSS & Javascript.
 
 ## Link to deployed site
 
-https://james-brainard.github.io/Password-Generator
+https://james-brainard.github.io/Password-Generator/
